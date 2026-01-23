@@ -76,4 +76,5 @@ Visit our FAQs section to find answers to commonly asked questions.
 
 Note: Trading involves risks. It's recommended to understand the risks before deploying any bot in a live trading environment.
 
-If you find this repository useful, please star it to make it more visible to the community. Happy Trading! 📈
+If you find this repository useful, please star it to make it more visible to the community. Happy Trading! 📈 
+c181d37055c2f4447cc9990a864d868bee660bc0 deriv
