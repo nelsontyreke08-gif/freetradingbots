@@ -1,4 +1,4 @@
-# freeTradingBots - Make sure to back test before using
+deriv# freeTradingBots - Make sure to back test before using
 This is a repository for free bots that you can use to trade at your own discretion and earn millions.
 
 
